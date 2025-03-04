@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+   <html lang="pt-br">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>PJI510 GRUPO - 001</title>
+   </head>
+   <body>
+       <h1>"Sistema Inteligente de Monitoramento e Diagnóstico de Falhas Elétricas em Compressores de Refrigeradores através de Análise de Corrente Elétrica"</h1>
+       <table border="1">
+           <thead>
+               <tr>
+                   <th>id</th>
+                   <th>refrigerador</th>
+                   <th>correnteEletrica</th>
+                   <th>data</th>
+               </tr>
+           </thead>
+           <tbody>
+               {% for sensor in sensores %}
+               <tr>
+                   <td>{{ sensor.id }}</td>
+                   <td>{{ sensor.refrigerador }}</td>
+                   <td>{{ sensor.correnteEletrica }}</td>
+                   <td>{{ sensor.data }}</td>
+               </tr>
+               {% endfor %}
+           </tbody>
+       </table>
+   </body>
+   </html>
