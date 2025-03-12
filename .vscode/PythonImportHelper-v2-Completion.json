@@ -1,0 +1,222 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "rlcompleter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rlcompleter",
+        "description": "rlcompleter",
+        "detail": "rlcompleter",
+        "documentation": {}
+    },
+    {
+        "label": "readline",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "readline",
+        "description": "readline",
+        "detail": "readline",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['HOME']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['HOME'] = '/home/robsonas'\nos.environ['LC_CTYPE'] = 'en_US.utf-8'\nos.environ['JAVA_HOME'] = '/usr/lib/jvm/default-java'\nos.environ['TERM'] = 'xterm-256color'\nos.environ['PYTHONSTARTUP'] = '/home/robsonas/.pythonstartup.py'\nos.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['LC_CTYPE']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['LC_CTYPE'] = 'en_US.utf-8'\nos.environ['JAVA_HOME'] = '/usr/lib/jvm/default-java'\nos.environ['TERM'] = 'xterm-256color'\nos.environ['PYTHONSTARTUP'] = '/home/robsonas/.pythonstartup.py'\nos.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['JAVA_HOME']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['JAVA_HOME'] = '/usr/lib/jvm/default-java'\nos.environ['TERM'] = 'xterm-256color'\nos.environ['PYTHONSTARTUP'] = '/home/robsonas/.pythonstartup.py'\nos.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['TERM']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['TERM'] = 'xterm-256color'\nos.environ['PYTHONSTARTUP'] = '/home/robsonas/.pythonstartup.py'\nos.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['PYTHONSTARTUP']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['PYTHONSTARTUP'] = '/home/robsonas/.pythonstartup.py'\nos.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['PYTHONANYWHERE_DOMAIN']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['PYTHONANYWHERE_DOMAIN'] = 'pythonanywhere.com'\nos.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['PYTHONANYWHERE_SITE']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['PYTHONANYWHERE_SITE'] = 'www.pythonanywhere.com'\nos.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['http_proxy']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['http_proxy'] = 'http://proxy.server:3128'\nos.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['https_proxy']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['https_proxy'] = 'http://proxy.server:3128'\nos.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['no_proxy']",
+        "kind": 5,
+        "importPath": ".ipython.profile_default.startup.00-env",
+        "description": ".ipython.profile_default.startup.00-env",
+        "peekOfCode": "os.environ['no_proxy'] = 'localhost,127.0.0.1,localaddress,.localdomain.com,/var/run/docker.sock'",
+        "detail": ".ipython.profile_default.startup.00-env",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "kind": 2,
+        "importPath": "mysite.flask_app",
+        "description": "mysite.flask_app",
+        "peekOfCode": "def hello_world():\n    return 'Hello from Flask!'",
+        "detail": "mysite.flask_app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "mysite.flask_app",
+        "description": "mysite.flask_app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef hello_world():\n    return 'Hello from Flask!'",
+        "detail": "mysite.flask_app",
+        "documentation": {}
+    },
+    {
+        "label": "inserir_dados",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def inserir_dados():\n    try:\n        # Recebe os dados JSON da requisição\n        dados = request.json\n        refrigerador = dados.get(\"refrigerador\")\n        correnteEletrica = dados.get(\"correnteEletrica\")\n        if correnteEletrica is None:\n            return jsonify({\"erro\": \"Dados inválidos\"}), 400\n        # Conectar ao MySQL e inserir dados\n        conn = mysql.connector.connect(**db_config)",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "refrigerador_1",
+        "kind": 2,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "def refrigerador_1():\n    # Conectar ao banco de dados MySQL\n    conn = mysql.connector.connect(**db_config)\n    cursor = conn.cursor(dictionary=True)\n    # Consultar os dados da tabela\n    cursor.execute(\"SELECT * FROM sensores\")\n    sensores = cursor.fetchall()\n    # Fechar a conexão com o banco\n    cursor.close()\n    conn.close()",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "app = Flask(__name__)\n# Configuração do banco de dados\ndb_config = {\n    \"host\": \"robsonas.mysql.pythonanywhere-services.com\",\n    \"user\": \"robsonas\",\n    \"password\": \"aparecido\",\n    \"database\": \"robsonas$automa\"\n}\n@app.route('/inserir', methods=['POST'])\ndef inserir_dados():",
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "db_config",
+        "kind": 5,
+        "importPath": "api",
+        "description": "api",
+        "peekOfCode": "db_config = {\n    \"host\": \"robsonas.mysql.pythonanywhere-services.com\",\n    \"user\": \"robsonas\",\n    \"password\": \"aparecido\",\n    \"database\": \"robsonas$automa\"\n}\n@app.route('/inserir', methods=['POST'])\ndef inserir_dados():\n    try:\n        # Recebe os dados JSON da requisição",
+        "detail": "api",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,108 @@
+ <!-- <!DOCTYPE html>
+   <html lang="pt-br">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>PJI510 GRUPO - 001</title>
+   </head>
+   <body>
+       <h1>"Sistema Inteligente de Monitoramento e Diagnóstico de Falhas Elétricas em Compressores de Refrigeradores através de Análise de Corrente Elétrica"</h1>
+       <table border="1">
+           <thead>
+               <tr>
+                   <th>id</th>
+                   <th>refrigerador</th>
+                   <th>correnteEletrica</th>
+                   <th>data</th>
+               </tr>
+           </thead>
+           <tbody>
+               {% for sensor in sensores %}
+               <tr>
+                   <td>{{ sensor.id }}</td>
+                   <td>{{ sensor.refrigerador }}</td>
+                   <td>{{ sensor.correnteEletrica }}</td>
+                   <td>{{ sensor.data }}</td>
+               </tr>
+               {% endfor %}
+           </tbody>
+       </table>
+   </body>
+   </html>
+    -->
+
+    <!-- <!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PJI510 GRUPO - 001</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        th,
+        td {
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Sistema Inteligente de Monitoramento e Diagnóstico de Falhas Elétricas</h1>
+    <table border="0">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Refrigerador</th>
+                <th>Corrente Elétrica</th>
+                <th>Data</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for sensor in sensores %}
+            <tr>
+                <td>{{ sensor.id }}</td>
+                <td>{{ sensor.refrigerador }}</td>
+                <td>{{ sensor.correnteEletrica }}</td>
+                <td>{{ sensor.data }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+</html> -->
